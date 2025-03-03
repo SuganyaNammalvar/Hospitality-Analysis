@@ -54,7 +54,6 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 5. Elite and premium rooms are the primary generators among all  room categories.
 6. Weekdays contribute the highest revenue, generating a total of 1.185 billion.
 7. RevPar is highest in Mumbai  8.91k ,while  lowest in Hyderabad 5.41k
-![image](https://github.com/user-attachments/assets/4648620f-8073-40e5-9d26-7d7245ffc1d4)
 
 # Recommendations:
 
