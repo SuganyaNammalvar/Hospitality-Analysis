@@ -47,13 +47,13 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![image](https://github.com/user-attachments/assets/d62dbf0c-606c-4edb-a195-f0685e18c486)
 
 # Insights:
-1.Mumbai leads all cities in revenue with a total of 669 million, while Delhi records the lowest revenue at 295 million.
-2.Highest Revenue generated in  May 581 million , compared in the month of June and July.
-3.Direct offline bookings recorded the lowest revenue, whereas MakeMyTrip secured the second-highest revenue among all booking platforms.
-4.AtliQ Palace and Exotica are the leading competitors in the market.
-5.Elite and premium rooms are the primary generators among all  room categories.
-6.Weekdays contribute the highest revenue, generating a total of 1.185 billion.
-7.RevPar is highest in Mumbai  8.91k ,while  lowest in Hyderabad 5.41k
+1. Mumbai leads all cities in revenue with a total of 669 million, while Delhi records the lowest revenue at 295 million.
+2. Highest Revenue generated in  May 581 million , compared in the month of June and July.
+3 Direct offline bookings recorded the lowest revenue, whereas MakeMyTrip secured the second-highest revenue among all booking platforms.
+4. AtliQ Palace and Exotica are the leading competitors in the market.
+5. Elite and premium rooms are the primary generators among all  room categories.
+6. Weekdays contribute the highest revenue, generating a total of 1.185 billion.
+7. RevPar is highest in Mumbai  8.91k ,while  lowest in Hyderabad 5.41k
 ![image](https://github.com/user-attachments/assets/4648620f-8073-40e5-9d26-7d7245ffc1d4)
 
 # Recommendations:
