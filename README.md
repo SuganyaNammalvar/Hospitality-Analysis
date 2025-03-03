@@ -63,6 +63,9 @@ Occupancy Rate: AtliQ Grands' properties maintain a solid occupancy rate of 57%,
 
 Average Rating: With an average guest rating of 3.62, AtliQ Grands is providing a positive guest experience. To keep this up, it’s important to continue improving service and listen to guest feedback to maintain and raise this rating.
 
+Provide discounts for business travellers or those making longer-term reservations, as weekdays generate the most money. Additionally, think about improving amenities at business hotels to improve the overall visitor experience.
+
+
 
 
 
