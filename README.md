@@ -2,7 +2,7 @@
 
 AtliQ Grands has been in the hospitality industry for the past 20 years and has lost its market share and revenue in the luxury/business hotels category. As a strategic move and ineffective decision-making, Atliq Grands wants to incorporate data through a power bi dashboard to regain its market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue teams had decided to hire 3rd party provider to give insights from historical data.
 
-#Task List:
+# Task List:
 
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.
