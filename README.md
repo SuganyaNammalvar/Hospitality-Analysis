@@ -57,9 +57,10 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 # Recommendations:
 
-.ADR Stability: The Average Daily Rate (ADR) has stayed steady, showing a consistent pricing approach. However, there’s an opportunity to use dynamic pricing based on weekdays and weekends. This could help increase revenue by adjusting prices according to demand.
+. ADR Stability: The Average Daily Rate (ADR) has stayed steady, showing a consistent pricing approach. However, there’s an opportunity to use dynamic pricing based on weekdays and weekends. This could help increase revenue by adjusting prices according to demand.
 
-. Occupancy Rate: AtliQ Grands' properties maintain a solid occupancy rate of 57%, indicating effective room utilization. However, there's room to boost occupancy, particularly during off-peak periods, to further maximize revenue potential.
+.  Occupancy Rate: AtliQ Grands' properties maintain a solid occupancy rate of 57%, indicating effective room utilization. However, there's room to boost occupancy, particularly during off-peak periods, to 
+ further maximize revenue potential.
 
 . Average Rating: With an average guest rating of 3.62, AtliQ Grands is providing a positive guest experience. To keep this up, it’s important to continue improving service and listen to guest feedback to maintain and raise this rating.
 
